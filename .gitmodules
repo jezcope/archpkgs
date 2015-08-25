@@ -1,0 +1,18 @@
+[submodule "dropbox"]
+	path = dropbox
+	url = https://aur.archlinux.org/dropbox.git
+[submodule "dropbox-cli"]
+	path = dropbox-cli
+	url = https://aur.archlinux.org/dropbox-cli.git
+[submodule "facter2"]
+	path = facter2
+	url = https://aur.archlinux.org/facter2.git
+[submodule "package-query"]
+	path = package-query
+	url = https://aur.archlinux.org/package-query.git
+[submodule "puppet3"]
+	path = puppet3
+	url = https://aur.archlinux.org/puppet3.git
+[submodule "yaourt"]
+	path = yaourt
+	url = https://aur.archlinux.org/yaourt.git
